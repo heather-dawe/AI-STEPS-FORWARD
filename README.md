@@ -1,4 +1,4 @@
-# AI-STEPS-FORWARD-Common-Data-Model
+# AI-STEPS-FORWARD
 A repo for the Common Data Model (CDM) and associated material for AI Assurance using the AI STEPS FORWARD framework
 
 The purpose of this repository is to provide a boilerplate Common Data Model (CDN) for AI Assurance using the AI STEPS FORWARD framework, defined in <a href="#">Responsible AI in the Enterprise</a> (Masood & Dawe, 2023). 
